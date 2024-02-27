@@ -1,0 +1,551 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Denmark,Both,25-29 years,Stomach cancer,Percent,2019,0.003362595,0.004695814,0.002373759
+Deaths,Denmark,Both,40-44 years,Stomach cancer,Percent,2019,0.010745849,0.014130951,0.008011285
+Deaths,Denmark,Both,55-59 years,Stomach cancer,Percent,2019,0.014265781,0.018021674,0.011143928
+Deaths,Denmark,Both,65-69 years,Stomach cancer,Percent,2019,0.01392525,0.01669665,0.011353906
+Deaths,Denmark,Both,70+ years,Stomach cancer,Percent,2019,0.008052868,0.008922106,0.007118758
+Deaths,Denmark,Both,25-29 years,Liver cancer,Percent,2019,0.003455896,0.004968194,0.002337635
+Deaths,Denmark,Both,40-44 years,Liver cancer,Percent,2019,0.006345276,0.008836052,0.004461168
+Deaths,Denmark,Both,55-59 years,Liver cancer,Percent,2019,0.013843312,0.017923803,0.010510538
+Deaths,Denmark,Both,65-69 years,Liver cancer,Percent,2019,0.012114101,0.014806411,0.009663672
+Deaths,Denmark,Both,70+ years,Liver cancer,Percent,2019,0.005232388,0.005864647,0.004563996
+Deaths,Finland,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.004162236,0.005649825,0.003021992
+Deaths,Finland,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002016947,0.002667349,0.001489222
+Deaths,Finland,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000901959,0.001174455,0.000676138
+Deaths,Finland,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000717003,0.000936475,0.000544436
+Deaths,Finland,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000314556,0.000382908,0.000238905
+Deaths,Finland,Both,25-29 years,Leukemia,Percent,2019,0.015569626,0.019820367,0.011786153
+Deaths,Finland,Both,40-44 years,Leukemia,Percent,2019,0.009319115,0.011802758,0.007337127
+Deaths,Finland,Both,55-59 years,Leukemia,Percent,2019,0.007554495,0.009457294,0.005839081
+Deaths,Finland,Both,65-69 years,Leukemia,Percent,2019,0.009520003,0.011941248,0.007556193
+Deaths,Finland,Both,70+ years,Leukemia,Percent,2019,0.006964467,0.007841634,0.006003179
+Deaths,United Kingdom,Both,25-29 years,Leukemia,Percent,2019,0.018978645,0.020081604,0.018043014
+Deaths,United Kingdom,Both,40-44 years,Leukemia,Percent,2019,0.01110496,0.011707518,0.01058024
+Deaths,United Kingdom,Both,55-59 years,Leukemia,Percent,2019,0.010260965,0.010690019,0.009892563
+Deaths,United Kingdom,Both,65-69 years,Leukemia,Percent,2019,0.012311621,0.012826882,0.011821737
+Deaths,United Kingdom,Both,70+ years,Leukemia,Percent,2019,0.008706843,0.009229921,0.007663438
+Deaths,France,Both,25-29 years,Stomach cancer,Percent,2019,0.002730847,0.003713746,0.001880409
+Deaths,France,Both,40-44 years,Stomach cancer,Percent,2019,0.01285712,0.016451357,0.009854669
+Deaths,France,Both,55-59 years,Stomach cancer,Percent,2019,0.015708934,0.019569152,0.012295183
+Deaths,France,Both,65-69 years,Stomach cancer,Percent,2019,0.017175308,0.020657725,0.014029303
+Deaths,France,Both,70+ years,Stomach cancer,Percent,2019,0.011170757,0.012551261,0.009370554
+Deaths,France,Both,25-29 years,Liver cancer,Percent,2019,0.004028076,0.005908126,0.002740905
+Deaths,France,Both,40-44 years,Liver cancer,Percent,2019,0.008135338,0.011205283,0.005740854
+Deaths,France,Both,55-59 years,Liver cancer,Percent,2019,0.024534652,0.032261461,0.018108029
+Deaths,France,Both,65-69 years,Liver cancer,Percent,2019,0.02951344,0.037350977,0.022926892
+Deaths,France,Both,70+ years,Liver cancer,Percent,2019,0.010044982,0.011497256,0.008545394
+Deaths,France,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002020887,0.003078047,0.001208032
+Deaths,France,Both,40-44 years,Pancreatic cancer,Percent,2019,0.015147498,0.019475335,0.011618301
+Deaths,France,Both,55-59 years,Pancreatic cancer,Percent,2019,0.034626321,0.044030906,0.026759847
+Deaths,France,Both,65-69 years,Pancreatic cancer,Percent,2019,0.043395748,0.053584021,0.034272813
+Deaths,France,Both,70+ years,Pancreatic cancer,Percent,2019,0.020414476,0.023291289,0.017026216
+Deaths,Finland,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002114403,0.00316391,0.001324629
+Deaths,Finland,Both,40-44 years,Pancreatic cancer,Percent,2019,0.011856174,0.015541977,0.008902891
+Deaths,Finland,Both,55-59 years,Pancreatic cancer,Percent,2019,0.034274663,0.042642659,0.026662394
+Deaths,Finland,Both,65-69 years,Pancreatic cancer,Percent,2019,0.04371736,0.053439338,0.034931776
+Deaths,Finland,Both,70+ years,Pancreatic cancer,Percent,2019,0.021985413,0.024771908,0.018959253
+Deaths,Denmark,Both,25-29 years,Pancreatic cancer,Percent,2019,0.00242909,0.003739077,0.001518887
+Deaths,Denmark,Both,40-44 years,Pancreatic cancer,Percent,2019,0.015145839,0.019895519,0.011283868
+Deaths,Denmark,Both,55-59 years,Pancreatic cancer,Percent,2019,0.032027027,0.041031024,0.024912742
+Deaths,Denmark,Both,65-69 years,Pancreatic cancer,Percent,2019,0.038152699,0.047114846,0.029843722
+Deaths,Denmark,Both,70+ years,Pancreatic cancer,Percent,2019,0.018725325,0.021278705,0.016146548
+Deaths,Denmark,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.006371796,0.008677606,0.004500482
+Deaths,Denmark,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002430585,0.003223059,0.00177682
+Deaths,Denmark,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000964443,0.001267358,0.000703545
+Deaths,Denmark,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000719175,0.000935848,0.000525581
+Deaths,Denmark,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000363537,0.000453273,0.000253669
+Deaths,Japan,Both,25-29 years,Stomach cancer,Percent,2019,0.012626439,0.013481892,0.011722259
+Deaths,Japan,Both,40-44 years,Stomach cancer,Percent,2019,0.036748355,0.038524684,0.034351322
+Deaths,Japan,Both,55-59 years,Stomach cancer,Percent,2019,0.0553467,0.057499162,0.052612319
+Deaths,Japan,Both,65-69 years,Stomach cancer,Percent,2019,0.064764587,0.067545505,0.061044556
+Deaths,Japan,Both,70+ years,Stomach cancer,Percent,2019,0.038457281,0.04235749,0.031121491
+Deaths,Japan,Both,25-29 years,Liver cancer,Percent,2019,0.003101116,0.003424647,0.002816793
+Deaths,Japan,Both,40-44 years,Liver cancer,Percent,2019,0.013624721,0.0150488,0.012420208
+Deaths,Japan,Both,55-59 years,Liver cancer,Percent,2019,0.03748274,0.040138153,0.035100714
+Deaths,Japan,Both,65-69 years,Liver cancer,Percent,2019,0.044060749,0.046314227,0.04150054
+Deaths,Japan,Both,70+ years,Liver cancer,Percent,2019,0.02280399,0.025078599,0.018771123
+Deaths,United Kingdom,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002805192,0.003050505,0.002593796
+Deaths,United Kingdom,Both,40-44 years,Pancreatic cancer,Percent,2019,0.01248929,0.01321739,0.011785676
+Deaths,United Kingdom,Both,55-59 years,Pancreatic cancer,Percent,2019,0.029435959,0.030868375,0.028067705
+Deaths,United Kingdom,Both,65-69 years,Pancreatic cancer,Percent,2019,0.033262293,0.034854597,0.031551692
+Deaths,United Kingdom,Both,70+ years,Pancreatic cancer,Percent,2019,0.017371307,0.018465792,0.015611551
+Deaths,United States of America,Both,25-29 years,Pancreatic cancer,Percent,2019,0.000864367,0.000966753,0.00076312
+Deaths,United States of America,Both,40-44 years,Pancreatic cancer,Percent,2019,0.009221129,0.009766083,0.008694291
+Deaths,United States of America,Both,55-59 years,Pancreatic cancer,Percent,2019,0.026662942,0.028067505,0.025359327
+Deaths,United States of America,Both,65-69 years,Pancreatic cancer,Percent,2019,0.031293531,0.033021608,0.029624693
+Deaths,United States of America,Both,70+ years,Pancreatic cancer,Percent,2019,0.017692286,0.018755468,0.015908901
+Deaths,Iceland,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002763547,0.004098109,0.001735532
+Deaths,Iceland,Both,40-44 years,Pancreatic cancer,Percent,2019,0.019388288,0.025306209,0.014242262
+Deaths,Iceland,Both,55-59 years,Pancreatic cancer,Percent,2019,0.038853555,0.050979597,0.028918758
+Deaths,Iceland,Both,65-69 years,Pancreatic cancer,Percent,2019,0.038552177,0.048846124,0.029494645
+Deaths,Iceland,Both,70+ years,Pancreatic cancer,Percent,2019,0.018397475,0.021168483,0.015251082
+Deaths,Iceland,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.003721582,0.005616497,0.002555647
+Deaths,Japan,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002248568,0.002429772,0.002079077
+Deaths,Japan,Both,40-44 years,Pancreatic cancer,Percent,2019,0.017816137,0.018942515,0.016534083
+Deaths,Japan,Both,55-59 years,Pancreatic cancer,Percent,2019,0.044203293,0.046208327,0.041943164
+Deaths,Japan,Both,65-69 years,Pancreatic cancer,Percent,2019,0.05127412,0.053697522,0.048254367
+Deaths,Japan,Both,70+ years,Pancreatic cancer,Percent,2019,0.024229259,0.026803925,0.019470465
+Deaths,United Kingdom,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.006410843,0.008159294,0.005608609
+Deaths,United Kingdom,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002578039,0.003144033,0.002263847
+Deaths,United Kingdom,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.00109755,0.00138524,0.000989171
+Deaths,United Kingdom,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000855086,0.001077848,0.000756743
+Deaths,United Kingdom,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000388905,0.000455177,0.000314733
+Deaths,United States of America,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.002242993,0.003705913,0.001814432
+Deaths,United States of America,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.001374703,0.001960289,0.001191015
+Deaths,United States of America,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000717272,0.000956303,0.000634549
+Deaths,United States of America,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000626231,0.000828875,0.000559699
+Deaths,United States of America,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000346666,0.000413043,0.000285204
+Deaths,United States of America,Both,25-29 years,Leukemia,Percent,2019,0.009627206,0.010559976,0.008545928
+Deaths,United States of America,Both,40-44 years,Leukemia,Percent,2019,0.009103641,0.009682097,0.008596845
+Deaths,United States of America,Both,55-59 years,Leukemia,Percent,2019,0.009439619,0.010058666,0.008909255
+Deaths,United States of America,Both,65-69 years,Leukemia,Percent,2019,0.012794846,0.013483823,0.012133622
+Deaths,United States of America,Both,70+ years,Leukemia,Percent,2019,0.010605691,0.01131939,0.009492483
+Deaths,Switzerland,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002978821,0.004482366,0.001854592
+Deaths,Switzerland,Both,40-44 years,Pancreatic cancer,Percent,2019,0.018319221,0.023984909,0.013651683
+Deaths,Switzerland,Both,55-59 years,Pancreatic cancer,Percent,2019,0.040104838,0.049716445,0.032117874
+Deaths,Switzerland,Both,65-69 years,Pancreatic cancer,Percent,2019,0.04585545,0.057096034,0.037188985
+Deaths,Switzerland,Both,70+ years,Pancreatic cancer,Percent,2019,0.019322666,0.021880069,0.016527737
+Deaths,Switzerland,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.005330683,0.00712062,0.003754226
+Deaths,Switzerland,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002446451,0.003229948,0.00176998
+Deaths,Switzerland,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.001011286,0.001309154,0.000735689
+Deaths,Switzerland,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000722577,0.000943826,0.000535319
+Deaths,Switzerland,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000301963,0.000384808,0.000209948
+Deaths,Switzerland,Both,25-29 years,Leukemia,Percent,2019,0.022321921,0.028177768,0.01717559
+Deaths,Switzerland,Both,40-44 years,Leukemia,Percent,2019,0.015001791,0.018599203,0.011867231
+Deaths,Switzerland,Both,55-59 years,Leukemia,Percent,2019,0.011233483,0.014008524,0.008845486
+Deaths,Switzerland,Both,65-69 years,Leukemia,Percent,2019,0.014263391,0.017668552,0.011557213
+Deaths,Switzerland,Both,70+ years,Leukemia,Percent,2019,0.007974464,0.008956226,0.006828929
+Deaths,Japan,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.00114522,0.00141866,0.000949018
+Deaths,Japan,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.000717819,0.00079998,0.000489873
+Deaths,Japan,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000446845,0.000498318,0.000327843
+Deaths,Japan,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000407034,0.000459398,0.000277832
+Deaths,Japan,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000118863,0.000135408,8.29E-05
+Deaths,Japan,Both,25-29 years,Leukemia,Percent,2019,0.022491347,0.023739071,0.02138875
+Deaths,Japan,Both,40-44 years,Leukemia,Percent,2019,0.016147057,0.017153637,0.015303054
+Deaths,Japan,Both,55-59 years,Leukemia,Percent,2019,0.01291648,0.013598896,0.012246515
+Deaths,Japan,Both,65-69 years,Leukemia,Percent,2019,0.012746459,0.013405877,0.011765325
+Deaths,Japan,Both,70+ years,Leukemia,Percent,2019,0.00585117,0.006406581,0.00473779
+Deaths,Denmark,Both,25-29 years,Leukemia,Percent,2019,0.024530426,0.031927108,0.018644949
+Deaths,Denmark,Both,40-44 years,Leukemia,Percent,2019,0.013568915,0.017160483,0.010694083
+Deaths,Denmark,Both,55-59 years,Leukemia,Percent,2019,0.009639961,0.012286252,0.007597162
+Deaths,Denmark,Both,65-69 years,Leukemia,Percent,2019,0.012413983,0.015513429,0.009720821
+Deaths,Denmark,Both,70+ years,Leukemia,Percent,2019,0.009946337,0.011244381,0.008612529
+Deaths,Iceland,Both,25-29 years,Stomach cancer,Percent,2019,0.003733663,0.005096105,0.002657717
+Deaths,Iceland,Both,40-44 years,Stomach cancer,Percent,2019,0.014509204,0.018839506,0.010609111
+Deaths,Iceland,Both,55-59 years,Stomach cancer,Percent,2019,0.018878966,0.024185162,0.014325144
+Deaths,Iceland,Both,65-69 years,Stomach cancer,Percent,2019,0.018394503,0.022458581,0.014691
+Deaths,Iceland,Both,70+ years,Stomach cancer,Percent,2019,0.01129766,0.012669186,0.009599335
+Deaths,Iceland,Both,25-29 years,Liver cancer,Percent,2019,0.002517702,0.00354143,0.001710474
+Deaths,Iceland,Both,40-44 years,Liver cancer,Percent,2019,0.007351351,0.010418017,0.005152067
+Deaths,Iceland,Both,55-59 years,Liver cancer,Percent,2019,0.015264375,0.020469792,0.011379075
+Deaths,Iceland,Both,65-69 years,Liver cancer,Percent,2019,0.014563885,0.018429188,0.011429777
+Deaths,Iceland,Both,70+ years,Liver cancer,Percent,2019,0.005716849,0.006397698,0.004895843
+Deaths,Italy,Both,25-29 years,Pancreatic cancer,Percent,2019,0.003219863,0.003659289,0.002828965
+Deaths,Italy,Both,40-44 years,Pancreatic cancer,Percent,2019,0.020100643,0.022105011,0.018346918
+Deaths,Italy,Both,55-59 years,Pancreatic cancer,Percent,2019,0.043263896,0.046166304,0.040338794
+Deaths,Italy,Both,65-69 years,Pancreatic cancer,Percent,2019,0.044532714,0.04767204,0.041297777
+Deaths,Italy,Both,70+ years,Pancreatic cancer,Percent,2019,0.019210814,0.020783196,0.016496016
+Deaths,Italy,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.010713658,0.012845377,0.008823323
+Deaths,Italy,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.003981792,0.005169504,0.00347151
+Deaths,Italy,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.00157676,0.002057599,0.001372494
+Deaths,Italy,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.001183548,0.001577153,0.001027535
+Deaths,Italy,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000484985,0.000601769,0.000394152
+Deaths,Italy,Both,25-29 years,Leukemia,Percent,2019,0.03298021,0.035757555,0.030101749
+Deaths,Italy,Both,40-44 years,Leukemia,Percent,2019,0.021153792,0.022780996,0.019490815
+Deaths,Italy,Both,55-59 years,Leukemia,Percent,2019,0.015120442,0.016179996,0.014112536
+Deaths,Italy,Both,65-69 years,Leukemia,Percent,2019,0.01666685,0.017929483,0.015356067
+Deaths,Italy,Both,70+ years,Leukemia,Percent,2019,0.009863731,0.010672838,0.008381695
+Deaths,Luxembourg,Both,25-29 years,Stomach cancer,Percent,2019,0.003214451,0.004362254,0.002306597
+Deaths,Luxembourg,Both,40-44 years,Stomach cancer,Percent,2019,0.012136606,0.015191214,0.009472894
+Deaths,Luxembourg,Both,55-59 years,Stomach cancer,Percent,2019,0.015735347,0.019307772,0.012863649
+Deaths,Luxembourg,Both,65-69 years,Stomach cancer,Percent,2019,0.016719232,0.020861642,0.013076716
+Deaths,Luxembourg,Both,70+ years,Stomach cancer,Percent,2019,0.011213006,0.012552482,0.009779917
+Deaths,Luxembourg,Both,25-29 years,Liver cancer,Percent,2019,0.002965745,0.004065901,0.002155827
+Deaths,Luxembourg,Both,40-44 years,Liver cancer,Percent,2019,0.007151354,0.009445598,0.005336673
+Deaths,Luxembourg,Both,55-59 years,Liver cancer,Percent,2019,0.014771854,0.019387871,0.011206089
+Deaths,Luxembourg,Both,65-69 years,Liver cancer,Percent,2019,0.017573499,0.023103614,0.013632424
+Deaths,Luxembourg,Both,70+ years,Liver cancer,Percent,2019,0.007087257,0.008626298,0.005788915
+Deaths,United Kingdom,Both,25-29 years,Stomach cancer,Percent,2019,0.003440451,0.003677525,0.003235816
+Deaths,United Kingdom,Both,40-44 years,Stomach cancer,Percent,2019,0.010472226,0.010950248,0.010055573
+Deaths,United Kingdom,Both,55-59 years,Stomach cancer,Percent,2019,0.014553745,0.015229537,0.014023115
+Deaths,United Kingdom,Both,65-69 years,Stomach cancer,Percent,2019,0.015365546,0.015979935,0.014728273
+Deaths,United Kingdom,Both,70+ years,Stomach cancer,Percent,2019,0.011823172,0.012525304,0.01060884
+Deaths,United Kingdom,Both,25-29 years,Liver cancer,Percent,2019,0.00513942,0.005551623,0.004707511
+Deaths,United Kingdom,Both,40-44 years,Liver cancer,Percent,2019,0.007064152,0.007590138,0.006584622
+Deaths,United Kingdom,Both,55-59 years,Liver cancer,Percent,2019,0.014171333,0.015119453,0.01327186
+Deaths,United Kingdom,Both,65-69 years,Liver cancer,Percent,2019,0.014321751,0.015145925,0.013437177
+Deaths,United Kingdom,Both,70+ years,Liver cancer,Percent,2019,0.007140456,0.007633031,0.006405784
+Deaths,Netherlands,Both,40-44 years,Pancreatic cancer,Percent,2019,0.018856828,0.023780959,0.014553458
+Deaths,Netherlands,Both,55-59 years,Pancreatic cancer,Percent,2019,0.039615012,0.048747473,0.031306044
+Deaths,Netherlands,Both,65-69 years,Pancreatic cancer,Percent,2019,0.043102408,0.05330067,0.035141681
+Deaths,Netherlands,Both,70+ years,Pancreatic cancer,Percent,2019,0.021455166,0.024244633,0.018676001
+Deaths,Italy,Both,25-29 years,Stomach cancer,Percent,2019,0.006303747,0.006952666,0.005732318
+Deaths,Italy,Both,40-44 years,Stomach cancer,Percent,2019,0.026274284,0.028636439,0.02411794
+Deaths,Italy,Both,55-59 years,Stomach cancer,Percent,2019,0.031999656,0.033915679,0.03005798
+Deaths,Italy,Both,65-69 years,Stomach cancer,Percent,2019,0.031885772,0.033834493,0.029988046
+Deaths,Italy,Both,70+ years,Stomach cancer,Percent,2019,0.018115999,0.019526161,0.015682107
+Deaths,Italy,Both,25-29 years,Liver cancer,Percent,2019,0.003454048,0.003941808,0.002971926
+Deaths,Italy,Both,40-44 years,Liver cancer,Percent,2019,0.010398521,0.011895173,0.009127059
+Deaths,Italy,Both,55-59 years,Liver cancer,Percent,2019,0.024743091,0.02743304,0.022120756
+Deaths,Italy,Both,65-69 years,Liver cancer,Percent,2019,0.022903059,0.025003227,0.020526914
+Deaths,Italy,Both,70+ years,Liver cancer,Percent,2019,0.008722055,0.009517597,0.007638311
+Deaths,Netherlands,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.006391904,0.008748196,0.004655999
+Deaths,Netherlands,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002549562,0.003363794,0.001887193
+Deaths,Netherlands,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.001047635,0.001367397,0.000799561
+Deaths,Netherlands,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000775639,0.000996113,0.00059624
+Deaths,Netherlands,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000378232,0.000464325,0.000277543
+Deaths,Netherlands,Both,25-29 years,Leukemia,Percent,2019,0.026983076,0.033461482,0.02130922
+Deaths,Netherlands,Both,40-44 years,Leukemia,Percent,2019,0.016291431,0.02050442,0.012924027
+Deaths,Netherlands,Both,55-59 years,Leukemia,Percent,2019,0.011901238,0.01443918,0.009702212
+Deaths,Netherlands,Both,65-69 years,Leukemia,Percent,2019,0.014855759,0.018272047,0.01183371
+Deaths,Netherlands,Both,70+ years,Leukemia,Percent,2019,0.010913839,0.012248631,0.009227412
+Deaths,Finland,Both,25-29 years,Stomach cancer,Percent,2019,0.003535561,0.004829968,0.002452914
+Deaths,Finland,Both,40-44 years,Stomach cancer,Percent,2019,0.011656213,0.015103852,0.008774709
+Deaths,Finland,Both,55-59 years,Stomach cancer,Percent,2019,0.014533863,0.018049319,0.011380185
+Deaths,Finland,Both,65-69 years,Stomach cancer,Percent,2019,0.01630251,0.019533637,0.013467661
+Deaths,Finland,Both,70+ years,Stomach cancer,Percent,2019,0.009832707,0.010945523,0.008659926
+Deaths,Finland,Both,25-29 years,Liver cancer,Percent,2019,0.002957248,0.0041545,0.00207893
+Deaths,Finland,Both,40-44 years,Liver cancer,Percent,2019,0.006089382,0.008312812,0.004306211
+Deaths,Finland,Both,55-59 years,Liver cancer,Percent,2019,0.01245493,0.015899931,0.009649824
+Deaths,Finland,Both,65-69 years,Liver cancer,Percent,2019,0.016809218,0.020405741,0.013750532
+Deaths,Finland,Both,70+ years,Liver cancer,Percent,2019,0.008018611,0.008884879,0.007080061
+Deaths,Republic of Korea,Both,25-29 years,Stomach cancer,Percent,2019,0.015880935,0.020542873,0.012229839
+Deaths,Republic of Korea,Both,40-44 years,Stomach cancer,Percent,2019,0.047652365,0.057914257,0.039586657
+Deaths,Republic of Korea,Both,55-59 years,Stomach cancer,Percent,2019,0.053283043,0.064517803,0.043385081
+Deaths,Republic of Korea,Both,65-69 years,Stomach cancer,Percent,2019,0.051003528,0.060565932,0.042541914
+Deaths,Republic of Korea,Both,70+ years,Stomach cancer,Percent,2019,0.033930311,0.038254808,0.029191362
+Deaths,Republic of Korea,Both,25-29 years,Liver cancer,Percent,2019,0.008814428,0.013378009,0.005581118
+Deaths,Republic of Korea,Both,40-44 years,Liver cancer,Percent,2019,0.058877291,0.083040706,0.039862417
+Deaths,Republic of Korea,Both,55-59 years,Liver cancer,Percent,2019,0.101741944,0.135846441,0.074747669
+Deaths,Republic of Korea,Both,65-69 years,Liver cancer,Percent,2019,0.075105013,0.09338466,0.059111177
+Deaths,Republic of Korea,Both,70+ years,Liver cancer,Percent,2019,0.030183322,0.034584313,0.026068628
+Deaths,Norway,Both,25-29 years,Stomach cancer,Percent,2019,0.002503508,0.002773999,0.002201815
+Deaths,Norway,Both,40-44 years,Stomach cancer,Percent,2019,0.012229741,0.013418559,0.010990586
+Deaths,Norway,Both,55-59 years,Stomach cancer,Percent,2019,0.017294578,0.018871175,0.015773001
+Deaths,Norway,Both,65-69 years,Stomach cancer,Percent,2019,0.017015653,0.01836825,0.015710218
+Deaths,Norway,Both,70+ years,Stomach cancer,Percent,2019,0.009856427,0.010742896,0.0086991
+Deaths,Norway,Both,25-29 years,Liver cancer,Percent,2019,0.003141907,0.003835986,0.002669976
+Deaths,Norway,Both,40-44 years,Liver cancer,Percent,2019,0.009026242,0.010863933,0.007726519
+Deaths,Norway,Both,55-59 years,Liver cancer,Percent,2019,0.012587338,0.014728605,0.011096316
+Deaths,Norway,Both,65-69 years,Liver cancer,Percent,2019,0.011070336,0.012590218,0.009871557
+Deaths,Norway,Both,70+ years,Liver cancer,Percent,2019,0.004298799,0.004798871,0.00378115
+Deaths,Belgium,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.004428323,0.00617772,0.003202683
+Deaths,Belgium,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002004741,0.002700466,0.001509332
+Deaths,Belgium,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000901815,0.001194439,0.000685835
+Deaths,Belgium,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.00069034,0.000906524,0.000532231
+Deaths,Belgium,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000293879,0.000358153,0.000233525
+Deaths,Belgium,Both,25-29 years,Leukemia,Percent,2019,0.017984971,0.023048159,0.013793945
+Deaths,Belgium,Both,40-44 years,Leukemia,Percent,2019,0.01233669,0.015634004,0.009822354
+Deaths,Belgium,Both,55-59 years,Leukemia,Percent,2019,0.01108422,0.013690211,0.009026084
+Deaths,Belgium,Both,65-69 years,Leukemia,Percent,2019,0.013799196,0.017029015,0.011137282
+Deaths,Belgium,Both,70+ years,Leukemia,Percent,2019,0.01028113,0.01161753,0.008542896
+Deaths,Germany,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002384428,0.003615278,0.001518594
+Deaths,Germany,Both,40-44 years,Pancreatic cancer,Percent,2019,0.016429687,0.020819013,0.012921479
+Deaths,Germany,Both,55-59 years,Pancreatic cancer,Percent,2019,0.035102013,0.043866167,0.027810901
+Deaths,Germany,Both,65-69 years,Pancreatic cancer,Percent,2019,0.040117523,0.0487438,0.032006063
+Deaths,Germany,Both,70+ years,Pancreatic cancer,Percent,2019,0.019448228,0.021833539,0.01696559
+Deaths,Germany,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.004173053,0.006127292,0.002832325
+Deaths,Germany,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.001695393,0.002435788,0.00119713
+Deaths,Germany,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000704254,0.000954149,0.000531447
+Deaths,Germany,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000608142,0.000809556,0.00047009
+Deaths,Germany,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000283111,0.000345768,0.000217776
+Deaths,Germany,Both,25-29 years,Leukemia,Percent,2019,0.021968768,0.02755648,0.017751977
+Deaths,Germany,Both,40-44 years,Leukemia,Percent,2019,0.013282887,0.016401767,0.010841726
+Deaths,Germany,Both,55-59 years,Leukemia,Percent,2019,0.010771682,0.013064181,0.008691753
+Deaths,Germany,Both,65-69 years,Leukemia,Percent,2019,0.013017273,0.015904245,0.010545757
+Deaths,Germany,Both,70+ years,Leukemia,Percent,2019,0.008981569,0.010120665,0.00758301
+Deaths,New Zealand,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.005376793,0.006964142,0.004072997
+Deaths,New Zealand,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002480845,0.003128617,0.001916774
+Deaths,New Zealand,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.001008332,0.001277934,0.000794162
+Deaths,New Zealand,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000847701,0.001067355,0.00065393
+Deaths,Switzerland,Both,25-29 years,Stomach cancer,Percent,2019,0.003349142,0.004602901,0.00237027
+Deaths,Switzerland,Both,40-44 years,Stomach cancer,Percent,2019,0.014245375,0.018686432,0.01052996
+Deaths,Switzerland,Both,55-59 years,Stomach cancer,Percent,2019,0.018965402,0.023245374,0.015270321
+Deaths,Switzerland,Both,65-69 years,Stomach cancer,Percent,2019,0.017291784,0.021094268,0.014295368
+Deaths,Switzerland,Both,70+ years,Stomach cancer,Percent,2019,0.009298923,0.010395357,0.007963171
+Deaths,Switzerland,Both,25-29 years,Liver cancer,Percent,2019,0.003854196,0.005398235,0.002606526
+Deaths,Switzerland,Both,40-44 years,Liver cancer,Percent,2019,0.00940506,0.01336189,0.006333949
+Deaths,Switzerland,Both,55-59 years,Liver cancer,Percent,2019,0.025397396,0.032129406,0.019376663
+Deaths,Switzerland,Both,65-69 years,Liver cancer,Percent,2019,0.025476996,0.031301279,0.020381679
+Deaths,Switzerland,Both,70+ years,Liver cancer,Percent,2019,0.008451477,0.009423413,0.007441236
+Deaths,Canada,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.004166296,0.005529483,0.003047366
+Deaths,Canada,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.001946559,0.002621318,0.001453246
+Deaths,Canada,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000810505,0.001067428,0.000614034
+Deaths,Canada,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000630662,0.00082204,0.000483757
+Deaths,Canada,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000285401,0.000358147,0.000225798
+Deaths,Canada,Both,25-29 years,Leukemia,Percent,2019,0.014852003,0.018778491,0.011344266
+Deaths,Canada,Both,40-44 years,Leukemia,Percent,2019,0.012295765,0.015281598,0.009737685
+Deaths,Canada,Both,55-59 years,Leukemia,Percent,2019,0.011858473,0.014600719,0.009523611
+Deaths,Canada,Both,65-69 years,Leukemia,Percent,2019,0.014436099,0.017738181,0.011648004
+Deaths,Canada,Both,70+ years,Leukemia,Percent,2019,0.010865592,0.012347947,0.00936381
+Deaths,Spain,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.007400841,0.009830807,0.005341261
+Deaths,Spain,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.00288397,0.003801084,0.002116033
+Deaths,Spain,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.001051852,0.0013497,0.000808435
+Deaths,Spain,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000856793,0.001074922,0.000665074
+Deaths,Spain,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000358152,0.000448572,0.000253418
+Deaths,Spain,Both,25-29 years,Leukemia,Percent,2019,0.028795847,0.035808218,0.022953915
+Deaths,Spain,Both,40-44 years,Leukemia,Percent,2019,0.014731697,0.017895857,0.011948686
+Deaths,Spain,Both,55-59 years,Leukemia,Percent,2019,0.011080004,0.01335478,0.009143122
+Deaths,Spain,Both,65-69 years,Leukemia,Percent,2019,0.014258898,0.017384726,0.011483777
+Deaths,Spain,Both,70+ years,Leukemia,Percent,2019,0.008763794,0.009982957,0.007484698
+Deaths,Canada,Both,25-29 years,Stomach cancer,Percent,2019,0.002595294,0.003614405,0.001839882
+Deaths,Canada,Both,40-44 years,Stomach cancer,Percent,2019,0.010242086,0.01344951,0.007723828
+Deaths,Canada,Both,55-59 years,Stomach cancer,Percent,2019,0.013891997,0.01749502,0.010926129
+Deaths,Canada,Both,65-69 years,Stomach cancer,Percent,2019,0.013803132,0.016702704,0.011299178
+Deaths,Canada,Both,70+ years,Stomach cancer,Percent,2019,0.010224787,0.011355797,0.008776783
+Deaths,Canada,Both,25-29 years,Liver cancer,Percent,2019,0.003223985,0.00453657,0.002262788
+Deaths,Sweden,Both,25-29 years,Stomach cancer,Percent,2019,0.002354697,0.002854027,0.001898651
+Deaths,Sweden,Both,40-44 years,Stomach cancer,Percent,2019,0.010163871,0.012153487,0.008484947
+Deaths,Sweden,Both,55-59 years,Stomach cancer,Percent,2019,0.014388692,0.01631208,0.01248957
+Deaths,Sweden,Both,65-69 years,Stomach cancer,Percent,2019,0.013734615,0.015915173,0.011836303
+Deaths,Sweden,Both,70+ years,Stomach cancer,Percent,2019,0.007921147,0.008675784,0.006973852
+Deaths,Sweden,Both,25-29 years,Liver cancer,Percent,2019,0.003519039,0.004703262,0.002628771
+Deaths,Sweden,Both,40-44 years,Liver cancer,Percent,2019,0.008246942,0.010641178,0.006252506
+Deaths,Sweden,Both,55-59 years,Liver cancer,Percent,2019,0.016360039,0.019736919,0.013358716
+Deaths,Sweden,Both,65-69 years,Liver cancer,Percent,2019,0.014292569,0.016358762,0.01226401
+Deaths,Sweden,Both,70+ years,Liver cancer,Percent,2019,0.005154037,0.005577414,0.004617716
+Deaths,Sweden,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002365006,0.003031754,0.00179723
+Deaths,Sweden,Both,40-44 years,Pancreatic cancer,Percent,2019,0.015689348,0.018648089,0.013038333
+Deaths,Sweden,Both,55-59 years,Pancreatic cancer,Percent,2019,0.038563091,0.043958917,0.033844024
+Deaths,Sweden,Both,65-69 years,Pancreatic cancer,Percent,2019,0.043623842,0.050816753,0.037257153
+Deaths,Sweden,Both,70+ years,Pancreatic cancer,Percent,2019,0.018116159,0.019876329,0.016060942
+Deaths,Canada,Both,40-44 years,Liver cancer,Percent,2019,0.008445278,0.011844189,0.005986939
+Deaths,Canada,Both,55-59 years,Liver cancer,Percent,2019,0.018025064,0.023512666,0.013802633
+Deaths,Canada,Both,65-69 years,Liver cancer,Percent,2019,0.016264625,0.020081531,0.012874895
+Deaths,Canada,Both,70+ years,Liver cancer,Percent,2019,0.007140899,0.008011645,0.00612896
+Deaths,Canada,Both,25-29 years,Pancreatic cancer,Percent,2019,0.001677089,0.002551916,0.001060519
+Deaths,Canada,Both,40-44 years,Pancreatic cancer,Percent,2019,0.013804032,0.018123078,0.010462044
+Deaths,Canada,Both,55-59 years,Pancreatic cancer,Percent,2019,0.031911071,0.040614659,0.02459529
+Deaths,Canada,Both,65-69 years,Pancreatic cancer,Percent,2019,0.035271045,0.043590534,0.027961379
+Deaths,Canada,Both,70+ years,Pancreatic cancer,Percent,2019,0.018279248,0.020669973,0.015643904
+Deaths,Ireland,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.005755685,0.007760655,0.004108056
+Deaths,Ireland,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002874143,0.003790314,0.002127685
+Deaths,Ireland,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.001256458,0.00165329,0.000906979
+Deaths,Ireland,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.00087784,0.001119164,0.000656506
+Deaths,Ireland,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000348185,0.000425043,0.000266562
+Deaths,Ireland,Both,25-29 years,Leukemia,Percent,2019,0.016199008,0.020950365,0.012253516
+Deaths,Ireland,Both,40-44 years,Leukemia,Percent,2019,0.013431068,0.016550843,0.010508202
+Deaths,Ireland,Both,55-59 years,Leukemia,Percent,2019,0.01068504,0.013494651,0.008256891
+Deaths,Ireland,Both,65-69 years,Leukemia,Percent,2019,0.013960731,0.017709347,0.010710105
+Deaths,Ireland,Both,70+ years,Leukemia,Percent,2019,0.008571879,0.009734582,0.007242805
+Deaths,France,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.005836604,0.007809617,0.004271184
+Deaths,France,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002345735,0.00304111,0.00176459
+Deaths,France,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000884748,0.00113628,0.000668558
+Deaths,France,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000706343,0.000948872,0.000530712
+Deaths,France,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000327781,0.000406748,0.000251985
+Deaths,France,Both,25-29 years,Leukemia,Percent,2019,0.022611078,0.02812032,0.018009514
+Deaths,France,Both,40-44 years,Leukemia,Percent,2019,0.011715118,0.014314671,0.009250911
+Deaths,France,Both,55-59 years,Leukemia,Percent,2019,0.01058267,0.012888902,0.008444107
+Deaths,France,Both,65-69 years,Leukemia,Percent,2019,0.016328529,0.020542845,0.012858585
+Deaths,France,Both,70+ years,Leukemia,Percent,2019,0.012466387,0.01425627,0.01006384
+Deaths,Germany,Both,25-29 years,Stomach cancer,Percent,2019,0.004976885,0.006820287,0.003599407
+Deaths,Germany,Both,40-44 years,Stomach cancer,Percent,2019,0.01891603,0.024046179,0.014871798
+Deaths,Germany,Both,55-59 years,Stomach cancer,Percent,2019,0.0205396,0.025354073,0.016575066
+Deaths,Germany,Both,65-69 years,Stomach cancer,Percent,2019,0.019571446,0.023130345,0.016101516
+Deaths,Germany,Both,70+ years,Stomach cancer,Percent,2019,0.013162057,0.014514218,0.011514358
+Deaths,Germany,Both,25-29 years,Liver cancer,Percent,2019,0.003051806,0.004335046,0.002150033
+Deaths,Germany,Both,40-44 years,Liver cancer,Percent,2019,0.007160426,0.009389793,0.005280713
+Deaths,Germany,Both,55-59 years,Liver cancer,Percent,2019,0.014455471,0.018157185,0.011096129
+Deaths,Germany,Both,65-69 years,Liver cancer,Percent,2019,0.016290423,0.019571524,0.013436589
+Deaths,Germany,Both,70+ years,Liver cancer,Percent,2019,0.006596921,0.007198321,0.005927804
+Deaths,Republic of Korea,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002333789,0.003347067,0.001604925
+Deaths,Republic of Korea,Both,40-44 years,Pancreatic cancer,Percent,2019,0.013854917,0.017087588,0.010941261
+Deaths,Republic of Korea,Both,55-59 years,Pancreatic cancer,Percent,2019,0.031374125,0.037922938,0.025977455
+Deaths,Republic of Korea,Both,65-69 years,Pancreatic cancer,Percent,2019,0.038172991,0.04567533,0.031882659
+Deaths,Republic of Korea,Both,70+ years,Pancreatic cancer,Percent,2019,0.020215893,0.022878514,0.017341145
+Deaths,Republic of Korea,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.000890539,0.001357356,0.000526099
+Deaths,Republic of Korea,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.000456612,0.000691296,0.000247293
+Deaths,Republic of Korea,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000344555,0.000512713,0.000185265
+Deaths,Republic of Korea,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000315861,0.000473968,0.000166138
+Deaths,Republic of Korea,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000104125,0.000139614,5.68E-05
+Deaths,Republic of Korea,Both,25-29 years,Leukemia,Percent,2019,0.022185531,0.029445193,0.016379455
+Deaths,Republic of Korea,Both,40-44 years,Leukemia,Percent,2019,0.013118722,0.016829139,0.01010298
+Deaths,Republic of Korea,Both,55-59 years,Leukemia,Percent,2019,0.009517452,0.01224358,0.006715798
+Deaths,Republic of Korea,Both,65-69 years,Leukemia,Percent,2019,0.008859109,0.011587595,0.005859179
+Deaths,Republic of Korea,Both,70+ years,Leukemia,Percent,2019,0.004313073,0.005048788,0.003098986
+Deaths,Netherlands,Both,25-29 years,Stomach cancer,Percent,2019,0.004622802,0.006312032,0.003222766
+Deaths,Netherlands,Both,40-44 years,Stomach cancer,Percent,2019,0.018001365,0.022794811,0.013771129
+Deaths,Netherlands,Both,55-59 years,Stomach cancer,Percent,2019,0.018527133,0.022561755,0.014679331
+Deaths,Netherlands,Both,65-69 years,Stomach cancer,Percent,2019,0.020387833,0.024652,0.01699301
+Deaths,Netherlands,Both,70+ years,Stomach cancer,Percent,2019,0.014743966,0.01643689,0.01291391
+Deaths,Netherlands,Both,25-29 years,Liver cancer,Percent,2019,0.004387865,0.006310835,0.002943734
+Deaths,Netherlands,Both,40-44 years,Liver cancer,Percent,2019,0.008868659,0.01224285,0.006348592
+Deaths,Netherlands,Both,55-59 years,Liver cancer,Percent,2019,0.011001495,0.013808185,0.008623913
+Deaths,Netherlands,Both,65-69 years,Liver cancer,Percent,2019,0.01043768,0.012473958,0.008625566
+Deaths,Netherlands,Both,70+ years,Liver cancer,Percent,2019,0.004873519,0.0053689,0.004275218
+Deaths,United States of America,Both,25-29 years,Stomach cancer,Percent,2019,0.001712927,0.001906291,0.001563898
+Deaths,United States of America,Both,40-44 years,Stomach cancer,Percent,2019,0.006831888,0.007334334,0.006376737
+Deaths,United States of America,Both,55-59 years,Stomach cancer,Percent,2019,0.008447317,0.008933597,0.008010446
+Deaths,United States of America,Both,65-69 years,Stomach cancer,Percent,2019,0.008140583,0.008556895,0.007768038
+Deaths,United States of America,Both,70+ years,Stomach cancer,Percent,2019,0.006120275,0.006480753,0.005479699
+Deaths,United States of America,Both,25-29 years,Liver cancer,Percent,2019,0.001464967,0.00173715,0.001199068
+Deaths,United States of America,Both,40-44 years,Liver cancer,Percent,2019,0.005259513,0.00607751,0.004390933
+Deaths,United States of America,Both,55-59 years,Liver cancer,Percent,2019,0.017665421,0.019634072,0.015437099
+Deaths,United States of America,Both,65-69 years,Liver cancer,Percent,2019,0.014176348,0.015743941,0.01247908
+Deaths,United States of America,Both,70+ years,Liver cancer,Percent,2019,0.005580031,0.006136711,0.004891657
+Deaths,Netherlands,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002124714,0.003216642,0.001295341
+Deaths,Australia,Both,25-29 years,Stomach cancer,Percent,2019,0.002392281,0.003332456,0.001703274
+Deaths,Australia,Both,40-44 years,Stomach cancer,Percent,2019,0.011732176,0.014793411,0.009048209
+Deaths,Australia,Both,55-59 years,Stomach cancer,Percent,2019,0.014776199,0.017956493,0.011819918
+Deaths,Australia,Both,65-69 years,Stomach cancer,Percent,2019,0.014934865,0.017662212,0.012251508
+Deaths,Australia,Both,70+ years,Stomach cancer,Percent,2019,0.008837847,0.009854249,0.007650501
+Deaths,Australia,Both,25-29 years,Liver cancer,Percent,2019,0.003365016,0.004832158,0.002346836
+Deaths,Australia,Both,40-44 years,Liver cancer,Percent,2019,0.009457257,0.012732507,0.006852946
+Deaths,Australia,Both,55-59 years,Liver cancer,Percent,2019,0.028669143,0.03613811,0.022165982
+Deaths,Australia,Both,65-69 years,Liver cancer,Percent,2019,0.019208125,0.022913795,0.015549725
+Deaths,Australia,Both,70+ years,Liver cancer,Percent,2019,0.007471762,0.008306848,0.006533206
+Deaths,Australia,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002191784,0.003387585,0.001393765
+Deaths,Australia,Both,40-44 years,Pancreatic cancer,Percent,2019,0.014332395,0.018040347,0.011035296
+Deaths,Australia,Both,55-59 years,Pancreatic cancer,Percent,2019,0.034666512,0.042389931,0.02742537
+Deaths,Australia,Both,65-69 years,Pancreatic cancer,Percent,2019,0.038298935,0.046464765,0.030521348
+Deaths,Australia,Both,70+ years,Pancreatic cancer,Percent,2019,0.018106985,0.020558364,0.015614169
+Deaths,Luxembourg,Both,25-29 years,Leukemia,Percent,2019,0.029035821,0.035848627,0.023598332
+Deaths,Luxembourg,Both,40-44 years,Leukemia,Percent,2019,0.01847184,0.022502533,0.015107588
+Deaths,Luxembourg,Both,55-59 years,Leukemia,Percent,2019,0.014506266,0.017249628,0.012098499
+Deaths,Luxembourg,Both,65-69 years,Leukemia,Percent,2019,0.017081868,0.020120095,0.014319526
+Deaths,Luxembourg,Both,70+ years,Leukemia,Percent,2019,0.011277488,0.012618587,0.009745179
+Deaths,Iceland,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.00186047,0.00269655,0.001315357
+Deaths,Iceland,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000831436,0.0011383,0.000617242
+Deaths,Iceland,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000646863,0.000871323,0.000485272
+Deaths,Iceland,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000247574,0.00034972,0.000190835
+Deaths,Iceland,Both,25-29 years,Leukemia,Percent,2019,0.020623449,0.02660185,0.015971935
+Deaths,Iceland,Both,40-44 years,Leukemia,Percent,2019,0.014298422,0.018039825,0.011251193
+Deaths,Iceland,Both,55-59 years,Leukemia,Percent,2019,0.011475432,0.014821295,0.008731048
+Deaths,Iceland,Both,65-69 years,Leukemia,Percent,2019,0.012866631,0.016980334,0.009705144
+Deaths,Iceland,Both,70+ years,Leukemia,Percent,2019,0.008157035,0.00954151,0.006692187
+Deaths,Ireland,Both,25-29 years,Stomach cancer,Percent,2019,0.002770818,0.00354937,0.002095611
+Deaths,Ireland,Both,40-44 years,Stomach cancer,Percent,2019,0.014677965,0.018219225,0.011670344
+Deaths,Ireland,Both,55-59 years,Stomach cancer,Percent,2019,0.017943097,0.021474768,0.01460049
+Deaths,Ireland,Both,65-69 years,Stomach cancer,Percent,2019,0.019752153,0.023910395,0.015897955
+Deaths,Ireland,Both,70+ years,Stomach cancer,Percent,2019,0.012688546,0.014133974,0.011194155
+Deaths,Ireland,Both,25-29 years,Liver cancer,Percent,2019,0.00214,0.003025524,0.001461061
+Deaths,Ireland,Both,40-44 years,Liver cancer,Percent,2019,0.008127006,0.01190332,0.005612214
+Deaths,Ireland,Both,55-59 years,Liver cancer,Percent,2019,0.012842647,0.016449951,0.009610178
+Deaths,Ireland,Both,65-69 years,Liver cancer,Percent,2019,0.014435741,0.01782416,0.011262206
+Deaths,Ireland,Both,70+ years,Liver cancer,Percent,2019,0.006677883,0.007432187,0.00581764
+Deaths,Ireland,Both,25-29 years,Pancreatic cancer,Percent,2019,0.001513868,0.002120337,0.001067838
+Deaths,Ireland,Both,40-44 years,Pancreatic cancer,Percent,2019,0.015612504,0.019498077,0.01233587
+Deaths,Ireland,Both,55-59 years,Pancreatic cancer,Percent,2019,0.032501215,0.039170296,0.025842081
+Deaths,Ireland,Both,65-69 years,Pancreatic cancer,Percent,2019,0.03505702,0.044201053,0.026985055
+Deaths,Ireland,Both,70+ years,Pancreatic cancer,Percent,2019,0.019248,0.021808148,0.016539668
+Deaths,Spain,Both,25-29 years,Stomach cancer,Percent,2019,0.005977416,0.007985354,0.004321226
+Deaths,Spain,Both,40-44 years,Stomach cancer,Percent,2019,0.023568672,0.029763856,0.018571993
+Deaths,Spain,Both,55-59 years,Stomach cancer,Percent,2019,0.027121322,0.033050841,0.022014378
+Deaths,Spain,Both,65-69 years,Stomach cancer,Percent,2019,0.026815681,0.031684823,0.022551998
+Deaths,Spain,Both,70+ years,Stomach cancer,Percent,2019,0.01494638,0.016554788,0.012844007
+Deaths,Spain,Both,25-29 years,Liver cancer,Percent,2019,0.004628767,0.006469784,0.003197579
+Deaths,Spain,Both,40-44 years,Liver cancer,Percent,2019,0.00966522,0.013178531,0.006940904
+Deaths,Spain,Both,55-59 years,Liver cancer,Percent,2019,0.025592115,0.032920625,0.019247295
+Deaths,Spain,Both,65-69 years,Liver cancer,Percent,2019,0.023807545,0.028410095,0.019204114
+Deaths,Spain,Both,70+ years,Liver cancer,Percent,2019,0.009141197,0.01015234,0.008035335
+Deaths,Spain,Both,25-29 years,Pancreatic cancer,Percent,2019,0.003058951,0.004530392,0.001966687
+Deaths,Spain,Both,40-44 years,Pancreatic cancer,Percent,2019,0.020505044,0.025889945,0.015939441
+Deaths,Spain,Both,55-59 years,Pancreatic cancer,Percent,2019,0.035377845,0.044032359,0.028496889
+Deaths,Spain,Both,65-69 years,Pancreatic cancer,Percent,2019,0.038352671,0.046440751,0.031376916
+Deaths,Spain,Both,70+ years,Pancreatic cancer,Percent,2019,0.015003215,0.016962527,0.012757252
+Deaths,New Zealand,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000382046,0.000480143,0.000294107
+Deaths,New Zealand,Both,25-29 years,Leukemia,Percent,2019,0.01828926,0.021412243,0.015473308
+Deaths,New Zealand,Both,40-44 years,Leukemia,Percent,2019,0.014127624,0.016325163,0.01216763
+Deaths,New Zealand,Both,55-59 years,Leukemia,Percent,2019,0.013072451,0.015149044,0.01130075
+Deaths,New Zealand,Both,65-69 years,Leukemia,Percent,2019,0.014673025,0.016709959,0.012831579
+Deaths,New Zealand,Both,70+ years,Leukemia,Percent,2019,0.009849634,0.010848322,0.008615567
+Deaths,Austria,Both,25-29 years,Stomach cancer,Percent,2019,0.003699634,0.00515411,0.002596655
+Deaths,Austria,Both,40-44 years,Stomach cancer,Percent,2019,0.01365765,0.017724634,0.010261801
+Deaths,Austria,Both,55-59 years,Stomach cancer,Percent,2019,0.018908923,0.022165451,0.016052715
+Deaths,Austria,Both,65-69 years,Stomach cancer,Percent,2019,0.017780005,0.021415557,0.014966786
+Deaths,Austria,Both,70+ years,Stomach cancer,Percent,2019,0.011280745,0.012485682,0.009838008
+Deaths,Luxembourg,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002362161,0.003157812,0.001714099
+Deaths,Luxembourg,Both,40-44 years,Pancreatic cancer,Percent,2019,0.016808009,0.022113676,0.012751707
+Deaths,Luxembourg,Both,55-59 years,Pancreatic cancer,Percent,2019,0.034070086,0.041546068,0.027688763
+Deaths,Luxembourg,Both,65-69 years,Pancreatic cancer,Percent,2019,0.039475544,0.049380115,0.030913787
+Deaths,Luxembourg,Both,70+ years,Pancreatic cancer,Percent,2019,0.019715149,0.022285622,0.016998687
+Deaths,Luxembourg,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.004011438,0.005879984,0.002822705
+Deaths,Luxembourg,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.001910157,0.002773201,0.001406028
+Deaths,Luxembourg,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000805626,0.001149963,0.000591423
+Deaths,Luxembourg,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000637206,0.000908026,0.000484416
+Deaths,Luxembourg,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000283904,0.000390803,0.000225024
+Deaths,Norway,Both,25-29 years,Pancreatic cancer,Percent,2019,0.001714023,0.001943547,0.001528295
+Deaths,Norway,Both,40-44 years,Pancreatic cancer,Percent,2019,0.016474795,0.017958894,0.015139163
+Deaths,Norway,Both,55-59 years,Pancreatic cancer,Percent,2019,0.03679863,0.039871077,0.03379124
+Deaths,Norway,Both,65-69 years,Pancreatic cancer,Percent,2019,0.041223901,0.044471619,0.038015312
+Deaths,Norway,Both,70+ years,Pancreatic cancer,Percent,2019,0.01852285,0.01999879,0.016409716
+Deaths,Norway,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.00383631,0.004471372,0.003052233
+Deaths,Norway,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002028221,0.002341146,0.00169157
+Deaths,Norway,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.00093004,0.001050836,0.000761997
+Deaths,Norway,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000694818,0.000790723,0.000552406
+Deaths,Norway,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000275349,0.000310369,0.000210499
+Deaths,Australia,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.004200883,0.005701642,0.003039154
+Deaths,Australia,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.001830774,0.002394763,0.001368385
+Deaths,Australia,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.00090093,0.001165513,0.000687264
+Deaths,Australia,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000776955,0.001059462,0.000599898
+Deaths,Australia,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000317123,0.000392905,0.000249895
+Deaths,Australia,Both,25-29 years,Leukemia,Percent,2019,0.018651662,0.023337456,0.014831078
+Deaths,Australia,Both,40-44 years,Leukemia,Percent,2019,0.011512471,0.01444295,0.009261082
+Deaths,Australia,Both,55-59 years,Leukemia,Percent,2019,0.012321042,0.014888384,0.010069516
+Deaths,Australia,Both,65-69 years,Leukemia,Percent,2019,0.015975918,0.019649026,0.012990081
+Deaths,Australia,Both,70+ years,Leukemia,Percent,2019,0.010725312,0.012068856,0.00910445
+Deaths,New Zealand,Both,25-29 years,Stomach cancer,Percent,2019,0.003879185,0.004963888,0.003052861
+Deaths,New Zealand,Both,40-44 years,Stomach cancer,Percent,2019,0.015564823,0.018752896,0.012712082
+Deaths,New Zealand,Both,55-59 years,Stomach cancer,Percent,2019,0.016726955,0.019753793,0.014209831
+Deaths,New Zealand,Both,65-69 years,Stomach cancer,Percent,2019,0.015795092,0.018714578,0.013337445
+Deaths,New Zealand,Both,70+ years,Stomach cancer,Percent,2019,0.009301391,0.010271124,0.008121758
+Deaths,New Zealand,Both,25-29 years,Liver cancer,Percent,2019,0.003808223,0.004937355,0.002916804
+Deaths,New Zealand,Both,40-44 years,Liver cancer,Percent,2019,0.013222212,0.01698836,0.010170771
+Deaths,New Zealand,Both,55-59 years,Liver cancer,Percent,2019,0.021229107,0.026800204,0.01694295
+Deaths,New Zealand,Both,65-69 years,Liver cancer,Percent,2019,0.014621407,0.017344033,0.012174312
+Deaths,New Zealand,Both,70+ years,Liver cancer,Percent,2019,0.00557497,0.006181838,0.004930165
+Deaths,New Zealand,Both,25-29 years,Pancreatic cancer,Percent,2019,0.001629917,0.002269012,0.001165837
+Deaths,New Zealand,Both,40-44 years,Pancreatic cancer,Percent,2019,0.014147712,0.017536005,0.011401085
+Deaths,New Zealand,Both,55-59 years,Pancreatic cancer,Percent,2019,0.026725164,0.031917828,0.02231496
+Deaths,New Zealand,Both,65-69 years,Pancreatic cancer,Percent,2019,0.029721753,0.036511783,0.024046438
+Deaths,New Zealand,Both,70+ years,Pancreatic cancer,Percent,2019,0.015000835,0.016890043,0.012872158
+Deaths,Norway,Both,25-29 years,Leukemia,Percent,2019,0.014043317,0.015501062,0.012842745
+Deaths,Norway,Both,40-44 years,Leukemia,Percent,2019,0.012519306,0.013607307,0.011519517
+Deaths,Norway,Both,55-59 years,Leukemia,Percent,2019,0.010225689,0.01110483,0.009444219
+Deaths,Norway,Both,65-69 years,Leukemia,Percent,2019,0.010467552,0.011331939,0.009595703
+Deaths,Norway,Both,70+ years,Leukemia,Percent,2019,0.005756515,0.006183235,0.005112074
+Deaths,Austria,Both,25-29 years,Liver cancer,Percent,2019,0.003788774,0.005389796,0.002642105
+Deaths,Austria,Both,40-44 years,Liver cancer,Percent,2019,0.007528975,0.010634393,0.005179533
+Deaths,Austria,Both,55-59 years,Liver cancer,Percent,2019,0.018810069,0.024194299,0.014538625
+Deaths,Austria,Both,65-69 years,Liver cancer,Percent,2019,0.021134018,0.025785196,0.017321248
+Deaths,Austria,Both,70+ years,Liver cancer,Percent,2019,0.007599673,0.008505097,0.006692316
+Deaths,Austria,Both,25-29 years,Pancreatic cancer,Percent,2019,0.002725316,0.004223652,0.001678843
+Deaths,Austria,Both,40-44 years,Pancreatic cancer,Percent,2019,0.018258564,0.02352928,0.013817909
+Deaths,Austria,Both,55-59 years,Pancreatic cancer,Percent,2019,0.040577841,0.047286514,0.033973817
+Deaths,Austria,Both,65-69 years,Pancreatic cancer,Percent,2019,0.041293389,0.050338206,0.034303178
+Deaths,Austria,Both,70+ years,Pancreatic cancer,Percent,2019,0.019644916,0.021778331,0.017244868
+Deaths,Austria,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.004509968,0.007160959,0.002911716
+Deaths,Austria,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.002038476,0.002992322,0.001442164
+Deaths,Austria,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000842978,0.001202903,0.00060755
+Deaths,Austria,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000610782,0.000909654,0.000436853
+Deaths,Austria,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000295471,0.000403273,0.000227324
+Deaths,Austria,Both,25-29 years,Leukemia,Percent,2019,0.022140549,0.028300039,0.017081822
+Deaths,Austria,Both,40-44 years,Leukemia,Percent,2019,0.015671637,0.019620204,0.012311568
+Deaths,Austria,Both,55-59 years,Leukemia,Percent,2019,0.011405252,0.01388889,0.009193582
+Deaths,Austria,Both,65-69 years,Leukemia,Percent,2019,0.013638049,0.016655066,0.010954293
+Deaths,Austria,Both,70+ years,Leukemia,Percent,2019,0.009119615,0.010245361,0.007728058
+Deaths,Belgium,Both,25-29 years,Stomach cancer,Percent,2019,0.002346015,0.003189062,0.001644228
+Deaths,Belgium,Both,40-44 years,Stomach cancer,Percent,2019,0.010687884,0.013842614,0.008047795
+Deaths,Belgium,Both,55-59 years,Stomach cancer,Percent,2019,0.014015568,0.016649611,0.011720779
+Deaths,Belgium,Both,65-69 years,Stomach cancer,Percent,2019,0.015124031,0.018449999,0.012337164
+Deaths,Belgium,Both,70+ years,Stomach cancer,Percent,2019,0.010591824,0.011821975,0.009146715
+Deaths,Belgium,Both,25-29 years,Liver cancer,Percent,2019,0.002932335,0.004304194,0.002035681
+Deaths,Belgium,Both,40-44 years,Liver cancer,Percent,2019,0.006983905,0.009798621,0.004926828
+Deaths,Belgium,Both,55-59 years,Liver cancer,Percent,2019,0.01344894,0.017780539,0.010227839
+Deaths,Belgium,Both,65-69 years,Liver cancer,Percent,2019,0.015914446,0.019234975,0.012831208
+Deaths,Belgium,Both,70+ years,Liver cancer,Percent,2019,0.006096882,0.006763057,0.005329624
+Deaths,Belgium,Both,25-29 years,Pancreatic cancer,Percent,2019,0.001801328,0.002678243,0.001123993
+Deaths,Belgium,Both,40-44 years,Pancreatic cancer,Percent,2019,0.013374467,0.017160423,0.010022336
+Deaths,Belgium,Both,55-59 years,Pancreatic cancer,Percent,2019,0.03130667,0.037407498,0.026167854
+Deaths,Belgium,Both,65-69 years,Pancreatic cancer,Percent,2019,0.034634674,0.042943442,0.027524276
+Deaths,Belgium,Both,70+ years,Pancreatic cancer,Percent,2019,0.016679356,0.018870041,0.014467553
+Deaths,Sweden,Both,25-29 years,Hodgkin lymphoma,Percent,2019,0.003425829,0.004574441,0.002566054
+Deaths,Sweden,Both,40-44 years,Hodgkin lymphoma,Percent,2019,0.001901048,0.002471511,0.001466713
+Deaths,Sweden,Both,55-59 years,Hodgkin lymphoma,Percent,2019,0.000828207,0.001049744,0.000643964
+Deaths,Sweden,Both,65-69 years,Hodgkin lymphoma,Percent,2019,0.000615181,0.000770639,0.000488818
+Deaths,Sweden,Both,70+ years,Hodgkin lymphoma,Percent,2019,0.000263388,0.000311522,0.000200396
+Deaths,Sweden,Both,25-29 years,Leukemia,Percent,2019,0.016207152,0.019480114,0.013367629
+Deaths,Sweden,Both,40-44 years,Leukemia,Percent,2019,0.014243829,0.016297729,0.012383803
+Deaths,Sweden,Both,55-59 years,Leukemia,Percent,2019,0.01144317,0.013005436,0.009995567
+Deaths,Sweden,Both,65-69 years,Leukemia,Percent,2019,0.012569718,0.014185338,0.011135545
+Deaths,Sweden,Both,70+ years,Leukemia,Percent,2019,0.009246202,0.009988619,0.008121091
